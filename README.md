@@ -9,4 +9,4 @@ Datasets were pulled using the bigPint package developed by Lindsay Rutter and D
 
 ### For a video walkthrough of the app, click the image link below:
 
-[![Watch the video](https://img.youtube.com/vi/Q54KWf79l3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q54KWf79l3k)
+[![Watch the video](https://img.youtube.com/vi/RheriURJDy4/maxresdefault.jpg)](https://www.youtube.com/watch?v=RheriURJDy4)
