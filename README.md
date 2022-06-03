@@ -1,4 +1,4 @@
-# BF591 Final Project
+# SE_Soybean_CN_Sub RShiny Implementation
 
 Data used to build this R Shiny app was provided in:
 
